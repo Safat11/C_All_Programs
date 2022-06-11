@@ -1,0 +1,5 @@
+Buggati     x2      2021      50000.85
+Mercedes     N1      2020      75555.50
+Citroen     N26      2015      547786.54
+Nissan     M2      2018      759788.55
+peugeot     S2      2018      78546.25
